@@ -8,3 +8,4 @@ Massimo and Aiden <br>
 11/18/24 Added Link from homepage to product 1 <br>
 11/18/24 Added Link from product 1 to homepage <br>
 11/18/24 added photos and description to product 1 <br>
+11/19/24 product 2 100% complete images and description along with the link to the homepage <br>
